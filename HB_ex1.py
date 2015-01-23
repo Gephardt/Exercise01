@@ -37,6 +37,6 @@ while guess != comp_num:
 
 # skipping the loop:
 if (count == 1 and guess == comp_num):            
-    print "Wow, first guess!"       
+    print "Wow, nice try!"       
   
 
